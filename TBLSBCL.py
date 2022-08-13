@@ -1,7 +1,7 @@
-# An Innovative Quadratic interpolation Salp Swarm-Based local escape operator (QSSALEO) optimization algorithm
+# Addressing Constrained Engineering Problems and Feature Selection with a Time-Based Leadership Salp-Based Algorithm with Competitive Learning 
 # More details about the algorithm are in [please cite the original paper ]
-# Mohammed Qaraad , Souad Amjad, Nazar K. Hussein , and Mostafa A. Elhosseini, "An Innovative Quadratic interpolation Salp Swarm-Based local escape operator for Large-Scale Global Optimization Problems and Feature Selection"
-# Neural Computing and Applications,  2022
+# Mohammed Qaraad , Souad Amjad, Nazar K. Hussein , and Mostafa A. Elhosseini, "Addressing Constrained Engineering Problems and Feature Selection with a Time-Based Leadership Salp-Based Algorithm with Competitive Learning"
+# Journal of Computational Design and Engineering, 2022
 
 
 import random
