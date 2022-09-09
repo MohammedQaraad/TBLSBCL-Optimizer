@@ -1,5 +1,5 @@
 # Addressing Constrained Engineering Problems and Feature Selection with a Time-Based Leadership Salp-Based Algorithm with Competitive Learning 
-# More details about the algorithm are in [please cite the original paper ]
+# More details about the algorithm are in [please cite the original paper ] DOI : 10.1093/jcde/qwac095
 # Mohammed Qaraad , Souad Amjad, Nazar K. Hussein , and Mostafa A. Elhosseini, "Addressing Constrained Engineering Problems and Feature Selection with a Time-Based Leadership Salp-Based Algorithm with Competitive Learning"
 # Journal of Computational Design and Engineering, 2022
 
